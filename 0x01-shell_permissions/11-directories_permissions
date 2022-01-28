@@ -1,0 +1,3 @@
+#!/bin/bash
+#recursively applies all users execute chmod to all sub-directories of current directory .
+chmod -R a+X . 

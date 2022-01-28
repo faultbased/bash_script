@@ -1,0 +1,3 @@
+#!/bin/bash
+#list hidden, normal, and boot directory with long-form, human readable data
+ls . .. /boot -alh

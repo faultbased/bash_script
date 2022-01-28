@@ -1,0 +1,3 @@
+#!/bin/bash
+#searches for specific file in tmp directory and verifys content type 
+file /tmp/iamafile\
