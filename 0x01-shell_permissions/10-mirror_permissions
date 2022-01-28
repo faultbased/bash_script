@@ -1,0 +1,3 @@
+#!/bin/bash
+#--reference copies permissions of one file to another specific file 
+chmod --reference=olleh hello1.sh 

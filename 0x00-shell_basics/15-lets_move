@@ -1,0 +1,3 @@
+#!/bin/bash
+#moves all uppercase u sources in current directory to lowercase tmp/u directory
+mv -t /tmp/u [[:upper:]]*  
