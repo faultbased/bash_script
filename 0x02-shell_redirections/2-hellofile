@@ -1,0 +1,3 @@
+#!/bin/bash
+#displays the contents of the /etc/passwd file
+sudo cat /etc/passwd
