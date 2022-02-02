@@ -1,0 +1,3 @@
+#!/bin/bash
+#displays all lines of the files starting with a letter
+grep -i '^[[:alpha:]]' /etc/ssh/sshd_config

@@ -1,0 +1,3 @@
+#!/bin/bash
+#the v flag inverts the results so only lines NOT containing bin are displayed
+grep -v "bin" /etc/passwd
