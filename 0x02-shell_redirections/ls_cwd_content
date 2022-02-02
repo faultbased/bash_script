@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 xoxo xoxo 4096 Feb  1 21:24 .
+drwxrwxr-x 6 xoxo xoxo 4096 Jan 31 21:39 ..
+-rwx--x--x 1 xoxo xoxo   32 Jan 31 21:41 0-hello_world
+-rwx--x--x 1 xoxo xoxo   31 Jan 31 22:04 1-confused_smiley
+-rwx--x--x 1 xoxo xoxo   80 Jan 31 21:45 2-hellofile
+-rwx--x--x 1 xoxo xoxo   44 Jan 31 22:08 3-twofiles
+-rwx--x--x 1 xoxo xoxo   40 Jan 31 22:11 4-lastlines
+-rwx--x--x 1 xoxo xoxo   34 Feb  1 21:06 5-firstlines
+-rwx--x--x 1 xoxo xoxo   36 Feb  1 21:12 6-third_line
+-rwx--x--x 1 xoxo xoxo  106 Feb  1 21:21 7-file
+-rwx--x--x 1 xoxo xoxo   36 Feb  1 21:24 8-cwd_state
+-rw-rw-r-- 1 xoxo xoxo   17 Feb  1 21:21 \*\\'"Holberton School"\'\\*$\?\*\\*\*\*\*\*:)
+-rw-rw-r-- 1 xoxo xoxo  210 Feb  1 21:11 iacta
+-rw-rw-r-- 1 xoxo xoxo    0 Feb  1 21:24 ls_cwd_content

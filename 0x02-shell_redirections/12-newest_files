@@ -1,0 +1,3 @@
+#!/bin/bash
+#list the 10 newest files created in current dir
+ls -pt | grep -v /$ | head
